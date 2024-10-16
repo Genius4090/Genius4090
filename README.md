@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Genius4090](https://github.com/Genius4090)
+- 👨‍💻 All of my projects are available at [Me](https://github.com/Genius4090)
 
 - 📝 I regularly write articles on nothing
 
 - 💬 Ask me about **Basic html, css, JavaScript and some react tips)**
 
-- 📫 How to reach me **abdulboriytolqinov00200@gmail.com**
+- 📫 How to reach me **abdulboriytolqinov00200@gmail.com** 
 
 - 📄 Know about my experiences : on this page
 
@@ -59,23 +59,28 @@
 <a href="#" target="blank"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
 <a href="#" target="blank"><img alt="Node" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
 <a href="#" target="blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<br>
 
-
-
- 
-  
-
-
-
-
-
- 
+### ☁ Cloud hosting
+<p>
+    <a href="#">
+        <img alt="vercel"
+             src="https://img.shields.io/badge/vercel-fff.svg?style=for-the-badge&logo=vercel&logoColor=000"/></a>
+    <a href="#">
+        <img alt="netlify"
+             src="https://img.shields.io/badge/netlify-46a2eb.svg?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Heroku"
+             src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+   
+a>
 
 
 </p>
 <br>
 <p>
- <a href="#" target="blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=genius4090&show_icons=true&locale=en&layout=compact" alt="genius4090" /></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=genius4090&show_icons=true&locale=en&layout=compact" alt="genius4090" />
 </p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genius4090&" alt="genius4090" /></p>
