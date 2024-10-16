@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulboriy</h1>
-<h3 align="center">a SUS frontend developer from Ohio</h3>
+<h3 align="center">A passionate frontend developer from Ohio</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif">
 <img src="https://komarev.com/ghpvc/?username=genius4090&label=Profile%20views&color=0e75b6&style=flat" alt="genius4090" /> </p>
 
