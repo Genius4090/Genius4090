@@ -1,24 +1,31 @@
 <h1 align="center">Hi 👋, I'm Abdulboriy</h1>
-<h3 align="center">A sus frontend developer from Ohio</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=genius4090&label=Profile%20views&color=0e75b6&style=flat" alt="genius4090" /> </p>
+<h3 align="center">a SUS frontend developer from Ohio</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif">
+<img src="https://komarev.com/ghpvc/?username=genius4090&label=Profile%20views&color=0e75b6&style=flat" alt="genius4090" /> </p>
 
 - 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Genius4090](https://github.com/Genius4090)
 
-- 📝 I regularly write articles on [¯\_(ツ)_/¯](¯\_(ツ)_/¯)
+- 📝 I regularly write articles on nothing
 
-- 💬 Ask me about **Basic html,css,JavaScript and some react tips)**
+- 💬 Ask me about **Basic html, css, JavaScript and some react tips)**
 
 - 📫 How to reach me **abdulboriytolqinov00200@gmail.com**
 
-- 📄 Know about my experiences [on this page](on this page)
+- 📄 Know about my experiences : on this page
 
 - ⚡ Fun fact **The imposter is sus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/genius3080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="genius3080" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/genius3080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="genius3080" height="30" width="40" /></a>
+<a href="https://fb.com/genius3080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="genius3080" height="30" width="40" /></a>
+<a href="https://instagram.com/genius3080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="genius3080" height="30" width="40" /></a>
+<a href="https://www.behance.net/genius3080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="genius3080" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/genius3080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="genius3080" height="30" width="40" /></a>
+<a href="https://discord.gg/genius3080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="genius3080" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
