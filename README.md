@@ -56,7 +56,7 @@
 <a href="#" target="blank"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
 <a href="#" target="blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 <a href="#" target="blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>  <br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
+<a href="#" target="blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="#" target="blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a href="#" target="blank"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
 <a href="#" target="blank"><img alt="Node" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
@@ -64,6 +64,7 @@
 </p>
 <br>
 ### ☁ Cloud hosting
+<p align="left">
 <p>
     <a href="#">
         <img alt="vercel"
@@ -75,14 +76,6 @@
         <img alt="Heroku"
              src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 </p>
-<br>
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=genius4090&show_icons=true&locale=en&layout=compact" alt="genius4090" />
-</p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genius4090&" alt="genius4090" /></p>
-
-
 
 
 
