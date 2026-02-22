@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on Front-end
 
-- 💬 Ask me about **Basic html, css, JavaScript and some react tips)**
+- 💬 Ask me about **Basic JavaScript, tailwindCSS, ReactJS and some NextJS tips)**
 
 - 📫 How to reach me **abdulboriytolqinov00200@gmail.com** 
 
